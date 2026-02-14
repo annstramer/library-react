@@ -1,19 +1,28 @@
-# library-react: An online library platform
+# Online Library Platform
 
-This project is a clone of an online library platform offering popular books and discount pricing. It uses React web technology to display books, add them to a shopping cart, and route navigation.
+[![React](https://img.shields.io/badge/React-17.0-blue)](https://reactjs.org/) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![HTML5](https://img.shields.io/badge/HTML5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS3](https://img.shields.io/badge/CSS3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-# Getting Started with Create React App
+## Overview
+A **React-based library platform** that dynamically loads books and demonstrates **component-driven state management**. Users can browse books, sort results, and add items to an interactive shopping cart.
 
-This project was bootstrapped with [Create React App].
+[Live Demo](https://yourusername.github.io/online-library-platform) | [Repository](https://github.com/yourusername/online-library-platform)
 
-## Available Scripts
+## Features
+- Dynamic book loading with **React Router-based routing**
+- Skeleton loading states for **responsive UX**
+- Sorting by title, author, or category
+- Interactive shopping cart functionality
+- Component-driven architecture for maintainability
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
+```bash
+git clone https://github.com/yourusername/online-library-platform.git
+npm install
+npm start
+Usage
+Browse books, sort results, and add items to the cart to experience interactive frontend functionality.
+Notes
+Demonstrates scalable React architecture, interactive UX, and motion/UX-informed design.
